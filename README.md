@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March, 08, 2017
 
 ### Student Name:  
-(First and Last Name)
+Tyler Dean 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment had us working with DOM methods and javascript to create a photo gallery site. 
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson I learned about DOM objects and how they help create a dynamic site.
+2. I also learned about some DOM methods such as getElementById(), getElementByName(), getElementByTagName() and how we use them. 
+3. I also learned about element nodes and how they must be created before adding a new element to the DOM. 
